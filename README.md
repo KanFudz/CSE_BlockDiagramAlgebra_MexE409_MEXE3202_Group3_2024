@@ -6,4 +6,4 @@ BLOCK DIAGRAM 1:
 
 
 BLOCK DIAGRAM 2: 
-![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/59a06efb-d4cc-42a3-9b32-245175574087)
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/81d5bafd-9ecc-4430-ba0c-8c6cfd3fe3e7)
