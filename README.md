@@ -6,4 +6,4 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 <br>
 
 ## BLOCK DIAGRAM 2:
-![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/6b71cb28-89d5-4b5e-8610-5165d1a5e65d)
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/6e726fb5-249a-48e2-b895-ef0cd0a31694)
