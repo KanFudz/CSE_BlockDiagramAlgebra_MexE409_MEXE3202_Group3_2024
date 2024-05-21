@@ -2,7 +2,7 @@
 THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 <div align="center">
   
-![Screenshot 2024-05-21 101917](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/c703b819-4d5f-488d-a30b-66f66e384471)
+
 
 </div>
 
