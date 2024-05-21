@@ -3,7 +3,7 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 <div align="center">
   
-![Screenshot 2024-05-21 120735](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/9d0aee98-fc97-4e40-a146-eeff0db53069)
+![Copy of CSE-LAB 3_FINAL PROJECT_page-0001](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/f4e2de9f-bce7-45af-9e76-08d1ecc02acc)
 
 </div>
 
@@ -14,13 +14,9 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 ### **MANUAL COMPUTATION**
 <div align="center">
 
-![1 1](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/b9ff0ca6-1615-4503-a257-3291a4ce3584)
-  
-![Screenshot 2024-05-21 130634](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/ac498554-1e60-4ee8-9f8c-068050de2dfc)
-
-![Screenshot 2024-05-21 130644](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/f299c954-837a-4a31-ac84-d748b647dd9d)
-
-![Screenshot 2024-05-21 130653](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/68cbd7a2-3b32-4abd-a198-10edf2cede8e)
+![Copy of CSE-LAB 3_FINAL PROJECT_page-0002](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/d317811d-f807-4c68-ad79-b272cd66b289)
+![Copy of CSE-LAB 3_FINAL PROJECT_page-0003](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/3093f6fa-b4a0-4ce8-bcb5-ccd892c2b841)
+![Copy of CSE-LAB 3_FINAL PROJECT_page-0004](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/c4218b09-2094-4060-8501-4583e860c619)
 
 </div>
 
@@ -40,6 +36,14 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ### **MANUAL COMPUTATION**
 <div align="center">
+  
+![1 1](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/b9ff0ca6-1615-4503-a257-3291a4ce3584)
+  
+![Screenshot 2024-05-21 130634](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/ac498554-1e60-4ee8-9f8c-068050de2dfc)
+
+![Screenshot 2024-05-21 130644](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/f299c954-837a-4a31-ac84-d748b647dd9d)
+
+![Screenshot 2024-05-21 130653](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/68cbd7a2-3b32-4abd-a198-10edf2cede8e)
 </div>
 
 ### **BLOCK DIAGRAM IN SIMULINK**
