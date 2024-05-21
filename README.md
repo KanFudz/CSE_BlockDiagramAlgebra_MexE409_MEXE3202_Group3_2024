@@ -24,6 +24,9 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ### **BLOCK DIAGRAM IN SIMULINK**
 <div align="center">
+
+![problem1_page-0001](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/84c38f6c-92e3-4a7c-9544-a7efd14b12b6)
+
 </div>
 
 ### **STEP RESPONSE:**
