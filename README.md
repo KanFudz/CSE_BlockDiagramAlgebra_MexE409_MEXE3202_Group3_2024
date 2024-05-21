@@ -1,5 +1,7 @@
 # CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024
 THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/24c4fcd5-101f-4437-9f96-d4b533fe2ed8)
+
 <div align="center">
   
 ![Screenshot 2024-05-21 120735](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/9d0aee98-fc97-4e40-a146-eeff0db53069)
