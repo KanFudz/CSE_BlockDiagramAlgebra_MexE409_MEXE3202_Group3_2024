@@ -32,9 +32,24 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ### **BLOCK DIAGRAM IN SIMULINK**
 <div align="center">
+  
 </div>
 
 ### **STEP RESPONSE:**
 
+**STEP SOURCE FROM BLOCK DIAGRAM**
 <div align="center">
 </div>
+
+**SINUSOIDAL SOURCE FROM BLOCK DIAGRAM**
+<div align="center">
+</div>
+
+**STEP SOURCE FROM REDUCED BLOCK DIAGRAM**
+<div align="center">
+</div>
+
+**SINUSOIDAL SOURCE FROM REDUCED BLOCK DIAGRAM**
+<div align="center">
+</div>
+
