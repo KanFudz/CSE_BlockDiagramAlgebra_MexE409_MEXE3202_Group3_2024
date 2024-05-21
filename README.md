@@ -21,7 +21,6 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 </div>
 
 
-
 ### **BLOCK DIAGRAM IN SIMULINK**
 <div align="center">
 
@@ -31,8 +30,34 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ### **STEP RESPONSE:**
 
+**STEP SOURCE FROM BLOCK DIAGRAM**
 <div align="center">
+
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/abdf6c48-927a-4f71-9fea-2ecdf04fae42)
+
 </div>
+
+**SINUSOIDAL SOURCE FROM BLOCK DIAGRAM**
+<div align="center">
+
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/4fe834fe-9844-4bc1-8596-eb6c90d3defd)
+  
+</div>
+
+**STEP SOURCE FROM REDUCED BLOCK DIAGRAM**
+<div align="center">
+
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/b02e24b4-acd1-4d58-8fc9-973646a2065f)
+  
+</div>
+
+**SINUSOIDAL SOURCE FROM REDUCED BLOCK DIAGRAM**
+<div align="center">
+
+![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/e7258ac1-2ace-4d8b-b018-735318fe82f3)
+  
+</div>
+
 
 ## BLOCK DIAGRAM 2:
 ![image](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157684612/6e726fb5-249a-48e2-b895-ef0cd0a31694)
