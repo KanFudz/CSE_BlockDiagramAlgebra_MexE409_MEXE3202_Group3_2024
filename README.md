@@ -65,7 +65,11 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 ### **MANUAL COMPUTATION**
 <div align="center">
   
-![1 1](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/b9ff0ca6-1615-4503-a257-3291a4ce3584)
+![1111](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/f539a01a-bb75-4abf-8d38-69ad41591226)
+
+![222](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/416c86e0-2575-40e6-9494-d74bb32d6017)
+
+![333](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/942ceff7-e5e9-4cc4-aeac-945e8d145cfd)
   
 ![Screenshot 2024-05-21 130634](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/ac498554-1e60-4ee8-9f8c-068050de2dfc)
 
