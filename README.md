@@ -13,6 +13,8 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ### **MANUAL COMPUTATION**
 <div align="center">
+
+![1 1](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/b9ff0ca6-1615-4503-a257-3291a4ce3584)
   
 ![Screenshot 2024-05-21 130634](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/ac498554-1e60-4ee8-9f8c-068050de2dfc)
 
