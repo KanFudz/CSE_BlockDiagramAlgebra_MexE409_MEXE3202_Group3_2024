@@ -75,7 +75,8 @@ THIS IS THE REPOSITORY FOR THE FINAL PROJECT IN CSE
 
 ![Screenshot 2024-05-21 130644](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/f299c954-837a-4a31-ac84-d748b647dd9d)
 
-![Screenshot 2024-05-21 130653](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/68cbd7a2-3b32-4abd-a198-10edf2cede8e)
+![Screenshot 2024-05-21 155917](https://github.com/KanFudz/CSE_BlockDiagramAlgebra_MexE409_MEXE3202_Group3_2024/assets/157782959/923f8dfa-a28d-46e6-ab30-49005246f1b0)
+
 </div>
 
 ### **BLOCK DIAGRAM IN SIMULINK**
